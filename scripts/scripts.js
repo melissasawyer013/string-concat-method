@@ -1,7 +1,7 @@
 function sayHello() {
     let initialGreeting = "Hello, ";
-    let firstName = "Melissa ";
-    let lastName = "Sawyer";
+    let firstName = "Hermione ";
+    let lastName = "Granger";
     let entireGreeting = (initialGreeting.concat(firstName, lastName));
     return entireGreeting;    
 }
